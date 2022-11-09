@@ -1,0 +1,67 @@
+body{
+    background-color: whitesmoke;
+}
+.img1{
+    width: 100%;
+}
+.img2{
+    width: 100%;
+}
+.img3{
+    width: 100%;
+}
+h3{
+    background-color: #00ffff;
+}
+#p1{
+    background-color: #000000;
+}
+#about{
+    background-color: #ff0000;
+}
+#myimg{
+    float: right;
+    margin-top: -50%;
+    margin-bottom: 10%;
+    height: 60%;
+  }
+  hr{
+    color: #ff0019;
+  }
+  #category{
+    background-color: #ff0000;
+  }
+  #availabeLoan{
+    background-color: hsl(161, 100%, 50%);
+  }
+  .card1{
+    color: #070404;
+  }
+  .card1:hover {
+    background-color: rgb(255, 251, 0);
+  }
+  #Apply{
+    background-color: #ff0000;
+  }
+  .form1{
+    /* background-color: rgb(2, 131, 2); */
+  }
+  #phone{
+    background-color: aqua;
+  }
+  .all{
+    background-image: url('../images/light.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+  .card-text{
+    color: rgb(255, 0, 30);
+  }
+  #apply{
+    color: #00ffff;
+  }
+  #mycontacts{
+    color: rgb(216, 17, 17);
+  }
+
